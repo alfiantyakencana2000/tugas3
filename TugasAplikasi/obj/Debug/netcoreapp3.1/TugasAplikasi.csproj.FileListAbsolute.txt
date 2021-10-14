@@ -1,0 +1,15 @@
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\bin\Debug\netcoreapp3.1\TugasAplikasi.exe
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\bin\Debug\netcoreapp3.1\TugasAplikasi.deps.json
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\bin\Debug\netcoreapp3.1\TugasAplikasi.runtimeconfig.json
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\bin\Debug\netcoreapp3.1\TugasAplikasi.runtimeconfig.dev.json
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\bin\Debug\netcoreapp3.1\TugasAplikasi.dll
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\bin\Debug\netcoreapp3.1\TugasAplikasi.pdb
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.csprojAssemblyReference.cache
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.FrmLatihanTiga3.resources
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.csproj.GenerateResource.cache
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.AssemblyInfoInputs.cache
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.AssemblyInfo.cs
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.csproj.CoreCompileInputs.cache
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.dll
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.pdb
+D:\Praktek SMT 3\PemroLanjut\praktikum3\TugasAplikasi\TugasAplikasi\obj\Debug\netcoreapp3.1\TugasAplikasi.genruntimeconfig.cache
